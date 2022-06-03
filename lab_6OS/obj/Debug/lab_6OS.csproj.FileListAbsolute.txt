@@ -1,0 +1,6 @@
+/Users/krutix/Projects/lab_6OS/lab_6OS/bin/Debug/lab_6OS.exe
+/Users/krutix/Projects/lab_6OS/lab_6OS/bin/Debug/lab_6OS.pdb
+/Users/krutix/Projects/lab_6OS/lab_6OS/obj/Debug/lab_6OS.csproj.AssemblyReference.cache
+/Users/krutix/Projects/lab_6OS/lab_6OS/obj/Debug/lab_6OS.csproj.CoreCompileInputs.cache
+/Users/krutix/Projects/lab_6OS/lab_6OS/obj/Debug/lab_6OS.exe
+/Users/krutix/Projects/lab_6OS/lab_6OS/obj/Debug/lab_6OS.pdb
